@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://quoccuonglands.com.vn/du-an/du-an-decapella-quan-2.html' target='_blank'><img src='http://3.bp.blogspot.com/-TeeZBY0imBY/VnqmKuwgFnI/AAAAAAAAAVg/xxTkyNHobSc/s1600/3259985010242280.png' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://quoccuonglands.com.vn/du-an/du-an-decapella-quan-2.html' target='_blank'><img src='http://3.bp.blogspot.com/-TeeZBY0imBY/VnqmKuwgFnI/AAAAAAAAAVg/xxTkyNHobSc/s1600/3259985010242280.png' width='500px'/>Cơ hội đầu tư sinh lời</a>. Căn hộ dễ mua, dễ bán. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
